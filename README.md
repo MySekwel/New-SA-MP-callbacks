@@ -13,7 +13,7 @@ sampctl package install MySekwel/New-SA-MP-callbacks
 Include in your code and begin using the library:
 
 ```pawn
-#include <New-SA-MP-callbacks>
+#include <callbacks>
 ```
 
 New-SA-MP-callbacks
