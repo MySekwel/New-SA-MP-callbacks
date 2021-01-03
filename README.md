@@ -1,3 +1,21 @@
+# New-SA-MP-callbacks
+
+[![sampctl](https://img.shields.io/badge/sampctl-New--SA--MP--callbacks-2f2f2f.svg?style=for-the-badge)](https://github.com/MySekwel/New-SA-MP-callbacks)
+
+## Installation
+
+Simply install to your project:
+
+```bash
+sampctl package install MySekwel/New-SA-MP-callbacks
+```
+
+Include in your code and begin using the library:
+
+```pawn
+#include <New-SA-MP-callbacks>
+```
+
 New-SA-MP-callbacks
 ===================
 

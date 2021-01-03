@@ -1,0 +1,9 @@
+{
+	"user": "MySekwel",
+	"repo": "New-SA-MP-callbacks",
+	"entry": "filterscripts\\example.pwn",
+	"output": "filterscripts\\example.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
